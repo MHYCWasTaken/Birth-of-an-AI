@@ -14,6 +14,20 @@
 
 此仓库适用于想要理解AI原理而不知道从何下手的同学们
 
-放心，我extends了基本操作的易学性，所有内容仅需要一些中学数学知识
+放心，此教程保留了基本操作的易学性，所有内容仅需要一些中学数学知识
 
 让我们开始吧
+
+-- MHYC133  
+   2023.1.22
+
+使用方法：
+下载zip文件，解压，使用一个支持mermaid渲染的markdown编辑器并打开md文件  
+祝你好运
+
+友链
+
+[基本操作：一个人工智能的诞生](https://jibencaozuo.com/zh-Hans/videoSeries/1/episode/1)  
+[回形针重症监护室](https://ipaperclip.icu/)  
+[回形针手册备份](http://ipaperclip.live/)  
+[流浪回形针](https://wandering-paperclip.glitch.me/)  
