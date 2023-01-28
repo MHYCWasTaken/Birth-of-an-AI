@@ -21,7 +21,7 @@
 ## 使用方法
 
 下载zip文件，解压，使用一个支持mermaid渲染的markdown编辑器并打开md文件  
-你还需要一个可以上网的浏览器，[Geogebra](Geogebra.org/calculator)日后会很有用  
+你还需要一个可以上网的浏览器，[Geogebra](https://geogebra.org/calculator)日后会很有用  
 祝你好运
 
 ## 友链
