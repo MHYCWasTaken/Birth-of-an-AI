@@ -1,8 +1,7 @@
 // Autor MHYC133
 #include <iostream>
 using namespace std;
-int main()
-{
+int main() {
     float data[10][3] = {
         {340, 360, 1},
         {460, 465, 1},
@@ -29,8 +28,7 @@ int main()
             if (result) {
                 w1 -= x1;
                 w2 -= x2;
-            }
-            else {
+            } else {
                 w1 += x1;
                 w2 += x2;
             }

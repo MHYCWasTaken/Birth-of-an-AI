@@ -1,4 +1,3 @@
-// Autor MHYC133
 #include <iostream>
 using namespace std;
 int main() {
@@ -18,7 +17,7 @@ int main() {
     float deltaw = 0.01;
     cin >> w1 >> w2;
     int b = 100;
-    for(int i = 0; i < 10; i++) {
+    for (int i = 0; i < 10; i++) {
         float x1 = data[i][0], x2 = data[i][1];
         int ans = data[i][2];
         float f = x1 * w1 + x2 * w2;
@@ -26,8 +25,8 @@ int main() {
         bool correct = result == ans;
         cout << result << ", " << correct << endl;
         // result是计算结果，correct是布尔值，表示计算是否正确
-        if(!correct) {
-            if(result == 1) {
+        if (!correct) {
+            if (result == 1) {
                 w1 -= deltaw;
                 w2 -= deltaw;
             } else {
