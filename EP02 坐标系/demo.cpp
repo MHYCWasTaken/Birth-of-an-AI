@@ -1,4 +1,4 @@
-// Autor MHYC133
+// Author MHYC133
 #include <iostream>
 using namespace std;
 int main() {
@@ -20,12 +20,13 @@ int main() {
     for (int i = 0; i < 10; i++) {
         float x1 = data[i][0], x2 = data[i][1];
         int ans = data[i][2];
-        bool result = x1 * w1 + x2 * w2 > b;
+        float f = x1 * w1 + x2 * w2;
+        int result = f > b;
         bool correct = result == ans;
         cout << result << ", " << correct << endl;
         // result是计算结果，correct是布尔值，表示计算是否正确
         if (!correct) {
-            if (result) {
+            if (result == 1) {
                 w1 -= x1;
                 w2 -= x2;
             } else {
