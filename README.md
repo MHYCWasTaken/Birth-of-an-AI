@@ -24,7 +24,7 @@
 
 克隆此仓库，并使用支持mermaid的markdown阅读器打开各个文件夹里面的 `EPxx.md`
 
-### 在线阅读
+### 在线阅读（Gitlab）
 
 打开上方的 `EPxx` 文件夹，在其中打开 `EPxx.md` 即可
 
